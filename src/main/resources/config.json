@@ -1,0 +1,14 @@
+{
+  "browser": "chrome",
+  "implicitWait": 10,
+  "pageLoadTime": 7,
+  "explicitWait": 15,
+  "chrome": {
+    "headless": false,
+    "incognito": false
+  },
+  "firefox": {
+    "headless": true,
+    "privateBrowsing": true
+  }
+}
